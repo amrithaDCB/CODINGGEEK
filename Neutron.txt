@@ -1,0 +1,4 @@
+M=int(input('mass number of an atom:'))
+A=int(input('atomic number of an atom:'))
+Neutrons = M-A
+print(Neutrons)
