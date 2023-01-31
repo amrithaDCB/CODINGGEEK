@@ -1,0 +1,4 @@
+C=int(input('cost price of pen:'))
+S=int(input('selling price of pen:'))
+Discount =C-S
+print(Discount)
