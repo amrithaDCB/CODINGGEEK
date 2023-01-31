@@ -1,0 +1,4 @@
+L=int(input('length of the rectangle:'))
+B=int(input('breadth of the rectangle:'))
+Perimeter=2*(L+B)
+print(Perimeter)
