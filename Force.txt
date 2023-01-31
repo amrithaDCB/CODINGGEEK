@@ -1,0 +1,5 @@
+m=int(input('mass of the body in kg:'))
+g=int(input('acceleration due to gravity in m/s2:'))
+h=int(input('height of the body in m:'))
+Force=m*g*h
+print(Force)
