@@ -1,0 +1,4 @@
+A=int(input('distance travelled in m:'))
+B=int(input('time taken in sec:'))
+Speed=A/B
+print(Speed)
